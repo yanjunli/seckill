@@ -6,7 +6,7 @@ import java.util.Date;
 /**
  * Created by yinhaijun on 16/5/15.
  */
-public class Seckill implements Serializable {
+public class Seckill {
 
     private long seckillId;
     private String name;
